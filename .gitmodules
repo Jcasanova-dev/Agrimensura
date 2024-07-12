@@ -1,0 +1,4 @@
+[submodule "api/paradigma"]
+	path = api/paradigma
+	url = https://gitpds@bitbucket.org/paradigmadelsur/utilities.git
+	branch = release
